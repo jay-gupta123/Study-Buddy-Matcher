@@ -40,7 +40,7 @@ Studdy-Buddy/
 ### 1. Clone the Repository
 
 ```
-git clone https://github.com/your-username/studdy-buddy.git
+git clone https://study-buddy-matcher.vercel.app/
 ```
 
 ### 2. Navigate to Project Folder
